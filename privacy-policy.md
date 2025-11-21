@@ -1,8 +1,6 @@
 Privacy Policy
 
-For your Discord bot
-
-Last updated: [today’s date automatically implied]
+Last updated: 22.11.2025
 
 1. Data We Collect
 
